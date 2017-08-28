@@ -1,0 +1,59 @@
+/* index.css */
+
+
+* { margin: 0; padding: 0; }
+
+
+
+
+
+
+/*
+@media (min-width: 576px) { ... }
+@media (min-width: 768px) { ... }
+@media (min-width: 992px) { ... }
+@media (min-width: 1200px) { ... }
+*/
+/*
+@include media-breakpoint-up(xs) {
+	
+}
+@include media-breakpoint-up(sm) {
+	
+}
+@include media-breakpoint-up(md) {
+	
+}
+@include media-breakpoint-up(lg) {
+	body {
+		font-family: Open Sans, Roboto Condensed, Verdana, MyriadProRegular, PTSans, sans-serif;
+	}
+}
+@include media-breakpoint-up(xl) {
+	
+}
+*/
+
+
+div.clear {
+	clear: both;
+}
+
+
+.panel-info>.panel-heading {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+p {
+	margin : 0;
+}
+
+div.panel-body {
+		padding : 0 1rem 0 1rem;
+}
+
+#draggablePanelList .panel-heading {
+	cursor: move;
+}
