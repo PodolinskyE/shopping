@@ -57,3 +57,7 @@ div.panel-body {
 #draggablePanelList .panel-heading {
 	cursor: move;
 }
+
+div.modal-header {
+	cursor: move;	
+}

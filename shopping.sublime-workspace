@@ -1,1 +1,567 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"jobs",
+				"jobsdoc"
+			],
+			[
+				"isb",
+				"isback"
+			],
+			[
+				"Входя",
+				"Входящий"
+			],
+			[
+				"isA",
+				"util.isArray();"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"write",
+				"writeHead"
+			],
+			[
+				"qs",
+				"qstring"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"pg",
+				"pgClient"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"addF",
+				"addFormData"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"re",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 293.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping"
+	],
+	"file_history":
+	[
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/index.css",
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/index.html",
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/model.js",
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/run.js",
+		"/D/JS/nodeJS/chat/git help.txt",
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/.gitignore",
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/README.md",
+		"/D/_Projects/DocNode/public/js/lib.js",
+		"/D/LIVE/JOB/LightPoint - alinakulaeva25/Shopping/shopping.js",
+		"/D/_Projects/DocNode/public/js/route/docStatusChanger.js",
+		"/D/JS/jquery_study/index.html",
+		"/D/_Projects/DocNode/app.js",
+		"/D/_Projects/DocNode/lib/lib.js",
+		"/D/JS/nodeJS/chat/app.js",
+		"/D/JS/nodeJS/chat/routes/users.js",
+		"/D/JS/nodeJS/chat/routes/services.js",
+		"/D/JS/nodeJS/chat/routes/index.js",
+		"/D/JS/nodeJS study/!_npm/command tips.txt",
+		"/D/JS/phonebook/node-postgres-todo/models/setup_database.js",
+		"/D/JS/nodeJS/chat/install/!!__test/setup_table.js",
+		"/D/JS/nodeJS/chat/.editorconfig",
+		"/D/JS/nodeJS/chat/console.log",
+		"/D/JS/nodeJS/chat/install/install.js",
+		"/D/JS/nodeJS/chat/install/sql/database.ddl",
+		"/D/JS/nodeJS/chat/install/sql/database.dml",
+		"/D/JS/nodeJS/chat/install/install.cmd",
+		"/D/JS/nodeJS/chat/install/sql/roles.dml",
+		"/D/JS/nodeJS/chat/models/books/index.js",
+		"/D/JS/nodeJS/chat/models/index.js",
+		"/D/JS/nodeJS/chat/config/config.json",
+		"/D/JS/nodeJS/chat/createDB.js",
+		"/D/JS/git help.txt",
+		"/D/JS/nodeJS/chat/chat.sublime-project",
+		"/D/_Projects/DocNode/lib/sql/db.blank.ddl",
+		"/D/JS/nodeJS/chat/install/db.loader.js",
+		"/D/JS/nodeJS study/hello phonebook/connection.js",
+		"/D/JS/nodeJS/chat/node_modules/colors/lib/colors.js",
+		"/D/_Projects/DocNode/lib/models/base.js",
+		"/D/JS/nodeJS/chat/libs/log.js",
+		"/D/JS/nodeJS study/puppies/node-postgres-promises/bin/www",
+		"/D/_Projects/DocNode/lib/db.js",
+		"/D/_Projects/DocNode/connect.js",
+		"/D/JS/nodeJS study/puppies/node-postgres-promises/app.js",
+		"/D/JS/nodeJS/chat/public_src/css/style.css",
+		"/D/JS/nodeJS/chat/templates/layout.pug",
+		"/D/JS/nodeJS/chat/templates/index.pug",
+		"/D/Padalinski Yauheni web developer.html",
+		"/D/JS/nodeJS/chat/public_src/js/hello.js",
+		"/D/JS/nodeJS/chat/templates/error.pug",
+		"/D/JS/nodeJS/chat/config/index.js",
+		"/D/JS/nodeJS/chat/_debug.bat",
+		"/C/Users/Padalinskiyo/AppData/Roaming/Sublime Text 3/Packages/ANSIescape/ansi.sublime-settings",
+		"/C/Users/Padalinskiyo/AppData/Roaming/Sublime Text 3/Packages/User/ansi.sublime-settings",
+		"/D/Settings/IDE & TextEditors/Sublime Text/colorize biold results/readme.txt",
+		"/C/Users/Padalinskiyo/AppData/Roaming/Sublime Text 3/Packages/User/ANSIescape/ansi.tmTheme",
+		"/C/Users/Padalinskiyo/AppData/Roaming/Sublime Text 3/Packages/User/docnode-debug.sublime-build",
+		"/D/Settings/IDE & TextEditors/Sublime Text/colorize biold results/links.txt",
+		"/D/_Projects/DocNode/lib/models/files.js",
+		"/D/_Projects/DocNode/lib/models/filesBase.js",
+		"/D/_Projects/DocNode/lib/models/docs/dbase.js",
+		"/D/JS/nodeJS/chat/bin/www",
+		"/D/JS/nodeJS/chat/node_modules/express/lib/express.js",
+		"/D/JS/nodeJS/chat/node_modules/express/lib/application.js",
+		"/D/JS/nodeJS/chat/node_modules/express-session/session/session.js",
+		"/D/JS/nodeJS/chat/node_modules/express-session/session/store.js",
+		"/D/JS/nodeJS/chat/node_modules/express/lib/middleware/query.js",
+		"/D/JS/nodeJS/chat/node_modules/express/lib/middleware/init.js",
+		"/D/_Projects/DocNode/.notes/1.10.js",
+		"/D/JS/nodeJS/chat/package.json",
+		"/D/_Projects/DocNode/package.json",
+		"/D/JS/js-test.html",
+		"/D/JS/nodeJS/chat/express.cmd",
+		"/D/JS/std001/index.html",
+		"/D/_Projects/DocNode/lib/models/settings/users.js",
+		"/D/_Projects/DocNode/lib/models/docs/djobsonexec.js",
+		"/D/_Projects/DocNode/lib/dbcon.js",
+		"/D/_Projects/DocNode/public/js/_lib.js",
+		"/D/_Projects/DocNode/lib/models/docs/dagreed.js",
+		"/D/_Projects/DocNode/lib/models/docs/dapprove.js",
+		"/D/_Projects/DocNode/lib/models/docs/sendMail.js",
+		"/D/_Projects/DocNode/lib/models/docs/ftsbase.js",
+		"/D/_Projects/DocNode/lib/models/docs/donctrl.js",
+		"/D/_Projects/DocNode/lib/models/docs/dsearch.js",
+		"/D/_Projects/DocNode/lib/models/docs/dprelost.js",
+		"/D/_Projects/DocNode/lib/models/docs/dout.js",
+		"/D/_Projects/DocNode/lib/models/docs/dapl.js",
+		"/D/_Projects/DocNode/lib/models/docs/dall.js",
+		"/D/_Projects/DocNode/lib/db.loader.js",
+		"/D/_Projects/DocNode/lib/views/layout.jade",
+		"/D/_Projects/DocNode/lib/models/addr.js",
+		"/D/_Projects/DocNode/lib/models/directories/post.js",
+		"/D/_Projects/DocNode/lib/models/directories/emp.js",
+		"/D/_Projects/DocNode/lib/models/docs/dinc.js",
+		"/D/_Projects/DocNode/lib/views/includes/menu.jade",
+		"/D/_Projects/DocNode 1.10/lib/views/layout.jade",
+		"/D/_Projects/DocNode 1.10/lib/models/models.js",
+		"/D/_Projects/DocNode/lib/models/docs/dbase.docTransit.js",
+		"/D/_Projects/DocNode/public/js/oStyle_config.js",
+		"/D/_Projects/DocNode backups/17_07_10 sad tried webpack/lib/views/layout.jade",
+		"/D/_Projects/DocNode backups/17_07_10 sad tried webpack/lib/models/models.js",
+		"/D/_Projects/DocNode backups/17_05_04/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_06_06/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_06_21.1 revert timersessions/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_06_21.2 before convert ALL to _lib/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_06_27 before webpack/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_06_28 recover before revert crazy links/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_07_07 full sync before webpack/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_07_10 sad tried webpack/public_src/JS/config.js",
+		"/D/_Projects/DocNode/public/js/config.js",
+		"/D/_Projects/DocNode backups/17_06_21.1 revert timersessions/lib/models/models.js",
+		"/D/_Projects/DocNode backups/17_06_21.2 before convert ALL to _lib/lib/models/models.js",
+		"/D/_Projects/DocNode backups/17_06_27 before webpack/lib/models/models.js",
+		"/D/_Projects/DocNode/lib/models/models.js",
+		"/D/_Projects/DocNode backups/17_07_07 full sync before webpack/lib/models/models.js",
+		"/D/_Projects/DocNode/.notes/falldown errors",
+		"/D/_Projects/DocNode/public/compile.bat",
+		"/D/_Projects/DocNode-docs/distr/ForUpdate 1.7/migration_1.6-1.7.sql",
+		"/D/_Projects/DocNode/lib/config.js",
+		"/D/_Projects/DocNode/lib/models/abonents.js",
+		"/D/testing.txt",
+		"/D/LIVE/BIB/asdf.txt",
+		"/D/02.js",
+		"/D/01.js",
+		"/D/startDaemonProduction.bat",
+		"/D/startDaemon.bat",
+		"/D/_Projects/DocNode/lib/utils.js",
+		"/D/_Projects/DocNode/lib/models/smdo/msg.js",
+		"/D/_Projects/DocNode/lib/smdo/processout.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\_Projects\\DocNode\\public\\,D:\\_Projects\\DocNode\\lib\\,*.js,*.jade,*.ddl,*.dml,*.sql,*.csv",
+			"D:\\_Projects\\DocNode\\public\\,D:\\_Projects\\DocNode\\lib\\,*.js,*.jade",
+			"D:\\_Projects\\DocNode\\public\\,D:\\_Projects\\DocNode\\lib\\,*.js",
+			"D:\\_Projects\\DocNode\\public\\*.js,D:\\_Projects\\DocNode\\lib\\*.js",
+			"D:\\_Projects\\DocNode\\public\\,D:\\_Projects\\DocNode\\lib\\",
+			"D:\\_Projects\\DocNode\\",
+			"D:\\_Projects\\DocNode\\lib",
+			"D:\\_Projects\\DocNode\\public",
+			"D:\\_Projects\\DocNode",
+			"D:\\_Projects\\DocNode,*.js",
+			"D:\\_Projects\\DocNode\\*.js",
+			"D:\\_Projects\\DocNode/*.js",
+			"D:\\_Projects\\DocNode",
+			"D:\\_Projects\\DocNode\\public\\js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//\n",
+			"modal",
+			"GoodsModalWindow",
+			"click",
+			"panel-info",
+			"{\n",
+			"data",
+			"append",
+			"users",
+			"services",
+			"pgoptions",
+			"dbBlank",
+			"load",
+			"dbLoaderSync",
+			";\n",
+			"config",
+			"async",
+			"footer",
+			"0x",
+			"envc",
+			"getPhaseInDoc",
+			"nextStatusesBy",
+			"getNextStatuses",
+			"services",
+			"printRecord",
+			"quer",
+			"body",
+			"quer",
+			"body",
+			"models",
+			"viewOpts",
+			"route",
+			"docu",
+			"/**",
+			"route",
+			"timer",
+			"nextLinked",
+			"chainDirection",
+			"debu",
+			"clearAfterCloseDlg",
+			"update",
+			"create",
+			"salt",
+			"compression",
+			"ajax",
+			"location",
+			"extendSess",
+			"debugg",
+			"for deve",
+			"parentForm",
+			"cls",
+			"recrea",
+			"answapl",
+			"setse",
+			"formLoaded",
+			"_lib.form.call",
+			"_lib.form.reCreate",
+			"\"dinc\", \"dout\"",
+			"reCreate",
+			"prevParentDoc",
+			"onCreateLinkedDoc",
+			"_lib.form.reCreate",
+			"_lib.form.call",
+			"_lib.form.init",
+			"call",
+			"setGridParam",
+			"mainDoc",
+			"debugger",
+			"debugg",
+			"formDestroyed",
+			"env",
+			"conso",
+			"consol",
+			"loginForm",
+			"selectTdoc",
+			"gridcompl",
+			"answApl",
+			"apply",
+			"loadform",
+			"lib.getForm",
+			"debugg",
+			"ansapl",
+			"signFile",
+			"sign",
+			"bundle",
+			"dout",
+			"without",
+			",",
+			"msg",
+			"directory",
+			"closeOnEscape",
+			"esca",
+			"env",
+			"config",
+			"produc",
+			"jade",
+			"compileFile",
+			"path",
+			"view engine",
+			"renderFile",
+			"receivers",
+			"lib.viewIncMail",
+			"viewIncMail",
+			"дорлжно присутствовать",
+			"receivers",
+			"dexp",
+			" //",
+			" /",
+			"/",
+			"scri",
+			"jquery.fileupload.js",
+			"browser",
+			"\"></script>",
+			"<script src=\"",
+			".js",
+			"uglify-js",
+			"empTransferedToUsers",
+			"phase_popup-dm",
+			"3-phase-popup-dm",
+			"jobFiles\njobFiles\njobFiles",
+			"jobFiles\njobFiles",
+			"parent",
+			"parentForm",
+			"debugg",
+			"apply",
+			"debugger",
+			"config.getPersonalGrid",
+			"printButton"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"x",
+			",\n",
+			"'",
+			",\n",
+			",\\t\\t\\t",
+			"\\nFROM",
+			"\\n\\(",
+			" ",
+			",\\n",
+			";\\t\\t",
+			"_lib.devMode",
+			"'",
+			"\n\\t from ",
+			"'",
+			"\nSelect",
+			" ",
+			"\nSelect",
+			"Select\n",
+			"From\n",
+			",\n",
+			"),\n(",
+			"'",
+			"\n",
+			";\n",
+			"",
+			" ",
+			"",
+			"#505050",
+			"#323232",
+			"#828282",
+			"#696969",
+			"\\t",
+			"\\n",
+			"/P",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/docnode-debug.sublime-build",
+	"project": "shopping.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
