@@ -43,7 +43,7 @@ Shop.prototype.getOpenTime = function () {
 Shop.prototype.addProduct = function ( prd ) {
 	prd.shop = this;
 	this.products.push( prd );
-	return this;
+	// return this;
 };
 
 Shop.prototype.deleteProduct = function ( prd ) {

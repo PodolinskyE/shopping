@@ -128,13 +128,11 @@ function showGoods ( shop ) {
 						'<form class="form-inline my-2 my-lg-0">' +
 							'<input id="p_name" class="form-control mr-sm-2" type="text" placeholder="Название" aria-label="name">' +
 							'<input id="p_desc" class="form-control mr-sm-2" type="text" placeholder="Описание" aria-label="desc">' +
-							'<button id="productBtnAdd" class="btn btn-outline-success my-2 my-sm-0" type="submit">Добавить</button>' +
+							'<input id="productBtnAdd" type="button" class="btn btn-outline-success" value="Добавить"/>' +
 						'</form>' +
 						'<div class="modal-body">' +
-							// '<p>Modal body text goes here.</p>' +
 						'</div>' +
 						'<div class="modal-footer">' +
-							// '<button type="button" class="btn btn-primary">Save changes</button>' +
 							'<button type="button" class="close btn btn-secondary" data-dismiss="modal">Close</button>' +
 						'</div>' +
 					'</div>' +
@@ -198,7 +196,6 @@ jQuery(function($) {
 	
 	var $navBtnAdd = $('#navBtnAdd');
 	$navBtnAdd.click(function ( e ) {
-		// debugger
 		var name = $(this).parents('nav').find('input#name')[0].value;
 		var address = $(this).parents('nav').find('input#address')[0].value;
 		var openTime = $(this).parents('nav').find('input#openTime')[0].value;
@@ -210,6 +207,7 @@ jQuery(function($) {
 			nsh = new ShopItem({'name' : name, 'address' : address, 'openTime' : openTime, 'closeTime' : closeTime});
 			shopList.add( nsh );
 		}
+
 	});
 });
 
